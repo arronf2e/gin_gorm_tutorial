@@ -10,7 +10,8 @@
   go get github.com/gin-gonic/gin
 - air: livereload
   go get github.com/cosmtrek/air@latest
-
+- jwt
+  github.com/golang-jwt/jwt
 
 ### Start pg docker container
 
