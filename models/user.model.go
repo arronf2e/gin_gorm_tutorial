@@ -26,7 +26,7 @@ type SignUpInput struct {
 	Avatar          string `json:"avatar" binding:"required"`
 }
 
-type SignIn struct {
+type SignInInput struct {
 	Email    string `json:"email" binding:"required"`
 	Password string `json:"password" binding:"required"`
 }
