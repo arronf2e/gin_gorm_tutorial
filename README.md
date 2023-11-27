@@ -22,3 +22,8 @@ docker-compose up -d
 ```shell
 go run migrate/migrate.go
 ```
+
+### start server
+```shell
+air
+```
