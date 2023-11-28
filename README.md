@@ -12,6 +12,12 @@
   go get github.com/cosmtrek/air@latest
 - jwt
   github.com/golang-jwt/jwt
+- html2text: cover html to text
+  go get github.com/k3a/html2text
+- gomail: send email
+  go get gopkg.in/gomail.v2
+- randstr: generate random string
+  go get github.com/thanhpk/randstr
 
 ### Start pg docker container
 
