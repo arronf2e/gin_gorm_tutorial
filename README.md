@@ -25,6 +25,11 @@
 docker-compose up -d
 ```
 
+### package install
+```shell
+go mod tidy
+```
+
 ### migrate
 ```shell
 go run migrate/migrate.go
