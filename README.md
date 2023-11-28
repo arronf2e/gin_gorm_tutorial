@@ -6,17 +6,17 @@
   go get gorm.io/driver/postgres
 - uuid: generates and inspects UUIDs  
   go get github.com/google/uuid
-- gin
+- gin  
   go get github.com/gin-gonic/gin
-- air: livereload
+- air: livereload  
   go get github.com/cosmtrek/air@latest
-- jwt
+- jwt  
   github.com/golang-jwt/jwt
-- html2text: cover html to text
+- html2text: cover html to text  
   go get github.com/k3a/html2text
-- gomail: send email
+- gomail: send email  
   go get gopkg.in/gomail.v2
-- randstr: generate random string
+- randstr: generate random string  
   go get github.com/thanhpk/randstr
 
 ### Start pg docker container
